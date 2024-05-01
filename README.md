@@ -16,7 +16,7 @@
 
 Let's consider the following graph to understand DFS traversal. And creat an adjacency matrix from this graph to generate input for the code
 
-[<img src="images/1.jpg" width=rA"60%" alt="image_1"/>](https://private-user-images.githubusercontent.com/106438748/327190593-09cb1d88-e7e2-40b6-8549-72feba9924ab.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1ODU0OTQsIm5iZiI6MTcxNDU4NTE5NCwicGF0aCI6Ii8xMDY0Mzg3NDgvMzI3MTkwNTkzLTA5Y2IxZDg4LWU3ZTItNDBiNi04NTQ5LTcyZmViYTk5MjRhYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwMVQxNzM5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MjFiMGI5NTdiN2EwYmI4YTAzYjVhZGI2MzgxMmY3Yjc5ZWFhMjUxYTUxMjAwOTJiN2QwOGZjNzFlMzBiYjY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Bs3wWfd3bqURIkGEPD2XmV6Ze-9gbpA6YIW_JxrlAkM)
+![1](https://github.com/Sabbir-Aahmed/Assignment-DFS-/assets/106438748/80f54d34-613d-47d4-bd7d-6aafa87c5b11)
 
 
 ## Step 1:
