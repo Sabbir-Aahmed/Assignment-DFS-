@@ -1,4 +1,4 @@
-# DFS Algorithm withk Steps 
+# DFS Algorithm with Steps 
 
 ### Depth First Search: Algorithm
 <ol>
